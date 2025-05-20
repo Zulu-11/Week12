@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870909762413",
+    "project_id": "fir-week11-lab",
+    "storage_bucket": "fir-week11-lab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870909762413:android:1d4cc6e1d29faf7ea91864",
+        "android_client_info": {
+          "package_name": "mobile.cross.web.app.lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtgG4Q9BX3IIgogU4hc4NwH3oVTQQdaBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
